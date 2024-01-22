@@ -23,13 +23,13 @@ Hallo everyone, ini adalah salah satu hasil kerja dan tugas saya dalam belajar p
 5. Jalankan menggunakan perintah `flutter run` atau bisa menuju dokument `main.dart` lalu klik tombol `Debug` seperti pada gambar dibawah<br><img src="Demo/debug.png"/><br>
 __*Jika masih bingung silahkan kunjungi website ini [cara menjalankan projek flutter dilocal komputer menggunakan Vs Code](https://piusaditya.medium.com/cara-clone-flutter-project-dari-github-menggunakan-visual-studio-code-3e165c2bef98)*__
 
-
 ## Hasil Gambar
-Welcome Screen | Quiz Screen | Result Screen |
+Welcome Screen | Quiz Screen | Result Screen 
+:----------:|:----------:| :----------:| 
 <img src="Demo/apps/welcome.jpeg"/> | <img src="Demo/apps/quiz1.jpeg"/> | <img src="Demo/apps/result.jpeg"/> 
 
 ## Fitur
-- Splash Screen
+- Welcome Screen
 - Quiz Screen
 - Result Screen
 
